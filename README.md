@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is my first code vibing project. 😄
+
 # 🧮 Web Calculator
 
 A clean, responsive calculator built with **React** and **Tailwind CSS** — all from CDNs, so there's **no build step**. Just open one HTML file in your browser.
