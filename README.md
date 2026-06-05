@@ -26,7 +26,7 @@ A clean, responsive calculator built with **React** and **Tailwind CSS** — all
 
 ## 📸 Demo
 
-> _Add a screenshot or GIF here, e.g._ `![Calculator screenshot](./screenshot.png)`
+![Calculator screenshot](./screenshot.png)
 
 ---
 
